@@ -1,4 +1,5 @@
 email: rashidyreza76@gmail.com
+uni mail: rashidi.reza@ut.ac.it
 
 Hello friends, I'm Reza Rashidi. Here is my teaching slides of relative orientation of two image with co-linearity equations to make the 3d model as TA in isfahan university.
 
